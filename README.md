@@ -1,7 +1,7 @@
 # LeetCodeJam
-============
 ```
 Problem_No  Problem_Name                                    Problem_State
+008         String to Integer (atoi)                            
 094         Binary Tree Inorder Traversal
 100         Same Tree                                           AC
 104         Maximum Depth of Binary Tree                        AC
