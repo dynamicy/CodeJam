@@ -8,7 +8,7 @@ Problem_No  Problem_Name                                    Problem_State
 122         Best Time to Buy and Sell Stock II      
 136         Single Number                                       AC
 144         Binary Tree Preorder Traversal                      
-171         Excel Sheet Column Number                           
+171         Excel Sheet Column Number                           AC
 191         Number of 1 Bits                                    AC
 235         Lowest Common Ancestor of a Binary Search Tree      
 237         Delete Node in a Linked List                        AC
