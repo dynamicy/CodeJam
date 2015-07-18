@@ -1,9 +1,9 @@
 # LeetCodeJam
 
-
-| Problem_No| Problem_Name  				                  | (Java) | (C#)   | Bash   |
+| Problem_No| Problem_Name  				                  |  Java  |  C#    |  Bash  |
 | --------- |:----------------------------------------------: | ------:|-------:|-------:|
 | 008	    | String to Integer (atoi) 	                      |        |        |        |
+| 013	    | Roman to Integer 	                              |        |        |        |
 | 094	    | Binary Tree Inorder Traversal                   |        |        |        |
 | 100 	    | Same Tree                                       |   AC   |        |        |
 | 104	    | Maximum Depth of Binary Tree                    |   AC   |   AC   |        |
@@ -14,5 +14,6 @@
 | 191	    | Number of 1 Bits     	        	              |   AC   |        |        |
 | 195	    | Tenth Line     	             	              |        |        |   AC   |
 | 226	    | Invert Binary Tree     	       	              |   AC   |        |        |
+| 232	    | Implement Queue using Stacks                    |        |        |        |
 | 235	    | Lowest Common Ancestor of a Binary Search Tree  |        |        |        |
 | 237	    | Delete Node in a Linked List                    |   AC   |   AC   |        |
