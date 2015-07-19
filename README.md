@@ -13,6 +13,7 @@
 | 171	    | Excel Sheet Column Number                       |   AC   |        |        |
 | 191	    | Number of 1 Bits     	        	              |   AC   |        |        |
 | 195	    | Tenth Line     	             	              |        |        |   AC   |
+| 206	    | Reverse Linked List      	       	              |   AC   |        |        |
 | 226	    | Invert Binary Tree     	       	              |   AC   |        |        |
 | 232	    | Implement Queue using Stacks                    |        |        |        |
 | 235	    | Lowest Common Ancestor of a Binary Search Tree  |        |        |        |
