@@ -15,6 +15,7 @@
 | 195	    | Tenth Line     	             	              |        |        |   AC   |
 | 206	    | Reverse Linked List      	       	              |   AC   |        |        |
 | 226	    | Invert Binary Tree     	       	              |   AC   |        |        |
+| 231	    | Power of Two                                    |   AC   |        |        |
 | 232	    | Implement Queue using Stacks                    |        |        |        |
 | 235	    | Lowest Common Ancestor of a Binary Search Tree  |        |        |        |
 | 237	    | Delete Node in a Linked List                    |   AC   |   AC   |        |
