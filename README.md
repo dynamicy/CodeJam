@@ -20,3 +20,4 @@
 | 235	    | Lowest Common Ancestor of a Binary Search Tree  |        |        |        |
 | 237	    | Delete Node in a Linked List                    |   AC   |   AC   |        |
 | 258	    | Add Digits                                      |   AC   |        |        |
+| 283	    | Move Zeros                                      |   AC   |        |        |
