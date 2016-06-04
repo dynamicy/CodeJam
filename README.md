@@ -1,4 +1,4 @@
-# LeetCodeJam
+# LeetCode
 
 | Problem_No| Problem_Name  				                  |  Java  |  C#    |  Bash  |
 | --------- |:----------------------------------------------: | ------:|-------:|-------:|
@@ -21,3 +21,14 @@
 | 237	    | Delete Node in a Linked List                    |   AC   |   AC   |        |
 | 258	    | Add Digits                                      |   AC   |        |        |
 | 283	    | Move Zeros                                      |   AC   |        |        |
+
+# ACM 
+
+| Problem_No| Problem_Name  				                  |  Java  |  C     |   
+| --------- |:----------------------------------------------: | ------:|-------:|
+| 100	    | The 3n + 1 problem     	                      |        |   AC   |        
+| 113	    | Power of Cryptography    	                      |        |   AC   |        
+| 272	    | TEX Quotes                                      |        |   AC   |            
+| 494	    | Kindergarten Counting Game                      |        |   AC   |        
+| 10071	    | Back to High School Physics                     |        |   AC   |        
+
